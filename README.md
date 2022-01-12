@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank"><img src="https://img.shields.io/badge/Entity Framework-339933?style=뱃지모양&logo=&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=뱃지모양&logo=Spring&logoColor=FFFFFF"/></a>
 
-+**Database**
+**Database**
 
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=뱃지모양&logo=MySQL&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MariaDB-1F305F?style=뱃지모양&logo=MariaDB&logoColor=FFFFFF"/></a>
