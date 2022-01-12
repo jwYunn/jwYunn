@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
   <a href="mailto:savior371@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=뱃지모양&logo=Gmail&logoColor=FFFFFF"/></a>
   <a href="https://iwillcomplete.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=뱃지모양&logo=Storyblok&logoColor=FFFFFF"/></a>
-  <a href="https://iwillcomplete-portfolio.notion.site/53b1164225b646ab96781411ef29a541" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=뱃지모양&logo=Notion&logoColor=000000"/></a>
+  <a href="https://iwillcomplete-portfolio.notion.site/iwillcomplete-portfolio/13f6c796429e47aea94fe8bd76a1675c" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=뱃지모양&logo=Notion&logoColor=000000"/></a>
 </div>
 
 
