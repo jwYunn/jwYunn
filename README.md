@@ -1,23 +1,16 @@
-<!-- - 👋 Hi, I’m @jwYunn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-
 <!---
 jwYunn/jwYunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-😎 Hi, This is jongwon
 
 
-<a href="savior371@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<a href="iwillcomplete.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<center> 😎 Hi, This is jongwon </center>
+
+
+
+<a href="savior371@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=뱃지모양&logo=Gmail&logoColor=FFFFFF"/></a>
+<a href="https://iwillcomplete.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=뱃지모양&logo=Storyblok&logoColor=FFFFFF"/></a>
 
 
 
@@ -34,16 +27,26 @@ You can click the Preview link to take a look at your changes.
 
 **Language**
 
-C#, Python, Java, Javascript, NodeJS
+<a target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=뱃지모양&logo=C Sharp&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=뱃지모양&logo=Java&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=뱃지모양&logo=Python&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=뱃지모양&logo=JavaScript&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?style=뱃지모양&logo=Node.js&logoColor=FFFFFF"/></a>
 
 **Framework**
 
-.Net Framework, Entity Framework, Spring Framework
+<a target="_blank"><img src="https://img.shields.io/badge/.Net Framework-512BD4?style=뱃지모양&logo=.Net&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Entity Framework-339933?style=뱃지모양&logo=Node.js&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=뱃지모양&logo=Spring&logoColor=FFFFFF"/></a>
 
-**Database**
++**Database**
 
-MySQL, MariaDB, MSSQL
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=뱃지모양&logo=MySQL&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MariaDB-1F305F?style=뱃지모양&logo=MariaDB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MSSQL-339933?style=뱃지모양&logo=&logoColor=FFFFFF"/></a>
 
 **Collaboration**
 
-Git, Redmine, Slack
+<a target="_blank"><img src="https://img.shields.io/badge/Git-181717?style=뱃지모양&logo=Github&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Redmine-B32024?style=뱃지모양&logo=Redmine&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=뱃지모양&logo=Slack&logoColor=FFFFFF"/></a>
