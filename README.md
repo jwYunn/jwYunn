@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 
-# 윤종원 | 수율 좋은 개발자
+<!-- # 윤종원 | 수율 좋은 개발자
 
 ![KakaoTalk_20220105_211652992.jpg](%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%20%E1%84%89%E1%85%AE%E1%84%8B%E1%85%B2%E1%86%AF%20%E1%84%8C%E1%85%A9%E1%87%82%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%20f382abcc67a84019b4f5c322adbdddad/KakaoTalk_20220105_211652992.jpg)
 
@@ -159,4 +159,4 @@ Git, Redmine, Slack
 
 2009.03 - 2012.02  |  충주중산고등학교
 
-2012.03 - 2019.02  |  한국기술교육대학교 정보통신공학과
+2012.03 - 2019.02  |  한국기술교육대학교 정보통신공학과 -->
