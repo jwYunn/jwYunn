@@ -5,12 +5,18 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<center> 😎 Hi, This is jongwon </center>
+<h3 align="center"> 😎 Hi, This is jongwon  </h3>
+
+<br>
+
+<div align="center"> 
+  <a href="savior371@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=뱃지모양&logo=Gmail&logoColor=FFFFFF"/></a>
+  <a href="https://iwillcomplete.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=뱃지모양&logo=Storyblok&logoColor=FFFFFF"/></a>
+  <a href="https://iwillcomplete-portfolio.notion.site/53b1164225b646ab96781411ef29a541" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=뱃지모양&logo=Notion&logoColor=000000"/></a>
+</div>
 
 
-
-<a href="savior371@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=뱃지모양&logo=Gmail&logoColor=FFFFFF"/></a>
-<a href="https://iwillcomplete.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=뱃지모양&logo=Storyblok&logoColor=FFFFFF"/></a>
+<br>
 
 
 
@@ -22,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 백엔드 개발의 매력을 느껴 기술 블로그 운영과 1일 1커밋과 같이 꾸준히 공부하고 있습니다.
 - 운동과 여행을 좋아하고, 사람들과 어울려 함께 다니기를 선호합니다.
 
+<br>
 
 # 🛠 Skills.
 
@@ -36,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 **Framework**
 
 <a target="_blank"><img src="https://img.shields.io/badge/.Net Framework-512BD4?style=뱃지모양&logo=.Net&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Entity Framework-339933?style=뱃지모양&logo=Node.js&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Entity Framework-339933?style=뱃지모양&logo=&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=뱃지모양&logo=Spring&logoColor=FFFFFF"/></a>
 
 +**Database**
@@ -52,8 +59,6 @@ You can click the Preview link to take a look at your changes.
 <a target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=뱃지모양&logo=Slack&logoColor=FFFFFF"/></a>
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<!-- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ -->
