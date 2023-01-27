@@ -22,41 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 # 🙋‍♂️ Introduction.
 
-- 만나뵙게 되어 반갑습니다! 백엔드 개발자를 희망하는 윤종원입니다.
-- 3년 차 스마트 팩토리 응용 S/W 개발자 경력이 있습니다.
-- 백엔드 경력자는 아니지만, 서버 개발을 맡아 DB 입출력과 비지니스 프로세스 구현하는 업무경험이 있습니다.
+- 만나뵙게 되어 반갑습니다! 백엔드 개발자 윤종원입니다.
+- 항상 나의 서비스라는 생각을 가지고 긍정적인 변화를 고민합니다.
+- 지속적인 열정으로 성장하는 개발자가 되고자 합니다.
+- 여행을 좋아하고 사람들과 함께 어울려 다니기를 선호합니다.
 
-<br>
-
-# 🛠 Skills.
-
-**Language**
-
-<a target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=뱃지모양&logo=C Sharp&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=뱃지모양&logo=Java&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=뱃지모양&logo=Python&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=뱃지모양&logo=JavaScript&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/NodeJS-339933?style=뱃지모양&logo=Node.js&logoColor=FFFFFF"/></a>
-
-**Framework**
-
-<a target="_blank"><img src="https://img.shields.io/badge/.Net Framework-512BD4?style=뱃지모양&logo=.Net&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Entity Framework-339933?style=뱃지모양&logo=&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=뱃지모양&logo=Spring&logoColor=FFFFFF"/></a>
-
-**Database**
-
-<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=뱃지모양&logo=MySQL&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MariaDB-1F305F?style=뱃지모양&logo=MariaDB&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MSSQL-339933?style=뱃지모양&logo=&logoColor=FFFFFF"/></a>
-
-**Collaboration**
-
-<a target="_blank"><img src="https://img.shields.io/badge/Git-181717?style=뱃지모양&logo=Github&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Redmine-B32024?style=뱃지모양&logo=Redmine&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=뱃지모양&logo=Slack&logoColor=FFFFFF"/></a>
-
-<br>
 <br>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjwYunn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
