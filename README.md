@@ -22,3 +22,9 @@ My experience includes:
 - AI-powered automation projects
 - Data modeling and async processing
 - Building production-minded personal projects
+
+## Projects
+### NoMeta
+A simple tool to remove metadata from files — fully local, privacy-friendly.
+
+https://nometa.app/
