@@ -2,13 +2,6 @@
 
 I'm a backend engineer focused on building practical and maintainable backend systems.
 
-My experience includes:
-- External API integrations
-- Authentication / authorization flows
-- Data pipelines and backend analytics
-- Queue-based asynchronous processing
-- Cloud-based backend services
-
 ## Tech
 
 - TypeScript / Node.js / NestJS
